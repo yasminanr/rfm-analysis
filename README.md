@@ -17,5 +17,5 @@ The 3 key features of RFM are:
 
 RFM allows us to sort and arrange our customers from best to worst quickly. Starting from the loyal high-spending customers with top scores on all three metrics, high spending but new customers that scores high on recency and monetary value but low on frequency, high-value customers who haven’t made a purchase in a while, and low-value customers who get low scores on all three. Based on these, we can create more relevant, contextualized marketing campaigns.
 
-Link to the dataset: https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing
+Link to the dataset [here](https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing).
 
