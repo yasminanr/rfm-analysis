@@ -1,4 +1,4 @@
-# rfm-analysis
+# <p align="center" style="margin-top: 0px;">RFM Analysis
 ### RFM (Recency, Frequency, Monetary Value) analysis on e-commerce data.
 RFM is a customer segmentation method used to analyze customer value based on behavior. Grouping customers into segments allows more personalized marketing instead of general email blasts. Targeting a specific segment of customers has some benefits such as:
 
